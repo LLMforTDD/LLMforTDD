@@ -5,7 +5,7 @@ import json
 
 def generate_junit_test_case(description):
     # Set your OpenAI API key here
-    openai.api_key = "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"
+    openai.api_key = ""
 
     # Construct the prompt
     prompt = f"Create a JUnit test case for the following requirement:\n{description}"
