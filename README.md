@@ -6,7 +6,7 @@ This is a sample README file.
 
 ## Datasets
 
-The dataset for are avilabe in LLMforTDD.zip
+The dataset for are available in LLMforTDD.zip
 * Evaluation_NoFineTuned_NoPrompts
 * Evaluation_NoFineTuned_Prompts
 * Evaluation_FineTuned_NoPrompts
