@@ -7,10 +7,10 @@ This is a sample README file.
 ## Datasets
 
 The dataset for are avilabe in LLMforTDD.zip
-Evaluation_NoFineTuned_NoPrompts
-Evaluation_NoFineTuned_Prompts
-Evaluation_FineTuned_NoPrompts
-Evaluation_FineTuned_Prompts
+* Evaluation_NoFineTuned_NoPrompts
+* Evaluation_NoFineTuned_Prompts
+* Evaluation_FineTuned_NoPrompts
+* Evaluation_FineTuned_Prompts
 
 Developing a BLOOM based model for the unit test cases generation
 
